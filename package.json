@@ -22,7 +22,11 @@
       "email": "ben@brittain.org"
     },
     {
+<<<<<<< HEAD
       "name": "Dennis Mårtensson",
+=======
+      "name": "Dennis MÃ¥rtensson",
+>>>>>>> 36c4d8d5e580eece757d1710717643e0da0e0142
       "email": "me@dennis.is"
     },
     {
