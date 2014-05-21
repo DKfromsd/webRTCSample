@@ -9,10 +9,13 @@ Run in your terminal
 
 ```bash 
 git clone git@github.com:webRTC/webrtc.io-demo.git
+or
+git clone git@github.com:mickeyfromsd/webRTCSample.git
 ```
 
 ```bash 
-cd webrtc.io-demo
+npm express
+npm webrtc
 ```
 
 ```bash 
@@ -37,9 +40,7 @@ go to [localhost:8080](http://localhost:8080)
 
 click allow to see your camera and the connection will be made between your to open windows.
 
-
 ##For instructions on how to start developing with webRTC.io
-
 go to [https://github.com/webRTC/webRTC.io](https://github.com/webRTC/webRTC.io) and read the instructions.
 
 Developed by:
