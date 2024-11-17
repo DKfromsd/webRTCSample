@@ -8,8 +8,11 @@
   "dependencies": {
     "webrtc.io": "latest",
     "webrtc.io-client": "latest",
-    "express": "3.1.0",
+    "express": ">=4.20.0",
     "ws": "latest"
+  },
+  "devDependencies": {
+    "express": ">=4.20.0"
   },
   "subdomain": "MultiWebRTC",
   "scripts": {
